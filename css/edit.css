@@ -1,0 +1,32 @@
+body {
+    background-color: #fff; /* белый фон */
+    color: #8c7ae6; /* цвет текста */
+  }
+  
+  h1, h2 {
+    color: #8c7ae6; /* цвет заголовков */
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #8c7ae6; /* рамка таблицы */
+  }
+  
+  input[type="text"],
+  select {
+    padding: 5px;
+    border: 1px solid #8c7ae6; /* рамка для полей ввода и списка */
+  }
+  
+  input[type="submit"] {
+    background-color: #8c7ae6; /* цвет кнопки отправки формы */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
